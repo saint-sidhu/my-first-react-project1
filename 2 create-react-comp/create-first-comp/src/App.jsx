@@ -5,7 +5,9 @@ function App(){
     <h1>
     This is the best React course
   </h1>
+  <Hello></Hello>
   <SidButton />
+  <button>Share</button>
   <button>Subscribe</button>
   </div>
 }
